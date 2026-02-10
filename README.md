@@ -94,6 +94,16 @@ This project demonstrates how event-driven serverless architectures can be effec
 
 ---
 
+## System Architecture
+
+The following diagram illustrates the event-driven serverless architecture implemented in this project.
+
+![AWS Event-Driven Data Processing Architecture](architecture-diagram/aws-event-pipeline-architecture.png)
+
+**Figure:** Event-driven data processing pipeline using Amazon S3, AWS Lambda, CloudWatch, Terraform, and GitHub Actions.
+
+---
+
 ## Author
 **Durga Dhanush YARAGANI**
 
